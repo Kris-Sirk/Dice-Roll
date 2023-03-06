@@ -10,12 +10,13 @@ Python 3.x
 * Follow the prompts to enter the number of dice and the number of sides on each die.
 
 ## Example Output
-
+```
 How many dice would you like to roll? 3  
 How many sides should the die have? 6  
 You rolled a 2!  
 You rolled a 6!  
 You rolled a 3!
+```
 ## License
 This project is licensed under the MIT License.
 ## Author 
