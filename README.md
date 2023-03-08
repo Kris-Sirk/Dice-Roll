@@ -17,7 +17,6 @@ You rolled a 2!
 You rolled a 6!  
 You rolled a 3!
 ```
-## License
-This project is licensed under the MIT License.
+
 ## Author 
 * Chris K.
